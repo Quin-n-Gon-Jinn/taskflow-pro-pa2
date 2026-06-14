@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tsk-1001",
+    "title": "Diseñar interfaz principal",
+    "description": "Crear la pantalla inicial con tarjetas, estadísticas y filtros.",
+    "status": "done",
+    "priority": "high",
+    "category": "Frontend",
+    "dueDate": "2026-06-20",
+    "createdAt": "2026-06-13T20:10:00.000Z",
+    "updatedAt": "2026-06-14T10:08:17.746Z",
+    "isOverdue": false
+  },
+  {
+    "id": "tsk-1002",
+    "title": "Implementar capa de servicio",
+    "description": "Separar controlador, servicio y repositorio para cumplir la arquitectura solicitada.",
+    "status": "pending",
+    "priority": "high",
+    "category": "Backend",
+    "dueDate": "2026-06-18",
+    "createdAt": "2026-06-13T20:12:00.000Z",
+    "updatedAt": "2026-06-13T20:12:00.000Z"
+  },
+  {
+    "id": "tsk-1003",
+    "title": "Preparar demostración del video",
+    "description": "Grabar recorrido por el proyecto, explicación del CRUD y consumo de servicios.",
+    "status": "done",
+    "priority": "medium",
+    "category": "Documentación",
+    "dueDate": "2026-06-17",
+    "createdAt": "2026-06-13T20:14:00.000Z",
+    "updatedAt": "2026-06-13T20:14:00.000Z"
+  },
+  {
+    "id": "tsk-1781432283403",
+    "title": "Grabar video PA2",
+    "description": "Explicar arquitectura, capa de servicio y consumo de API.",
+    "status": "pending",
+    "priority": "high",
+    "category": "Universidad",
+    "dueDate": "2026-06-14",
+    "createdAt": "2026-06-14T10:18:03.403Z",
+    "updatedAt": "2026-06-14T10:18:03.403Z"
+  }
+]
